@@ -1,0 +1,22 @@
+
+{
+  "name": "toolchain-xtensa32",
+  "version": "8.4.0",
+  "description": "GCC Toolchain for Xtensa32 processor",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "esp32"
+  ],
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "linux_arm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espressif/esp-idf"
+  }
+}
